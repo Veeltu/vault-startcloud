@@ -1,0 +1,12 @@
+{
+  "accentColor": "#d9bf87",
+  "cssTheme": "Obsidian Nord",
+  "theme": "obsidian",
+  "baseFontSize": 17,
+  "interfaceFontFamily": "Consolas,JetBrains Mono",
+  "textFontFamily": "Consolas",
+  "monospaceFontFamily": "Consolas",
+  "baseFontSizeAction": true,
+  "showRibbon": true,
+  "nativeMenus": false
+}

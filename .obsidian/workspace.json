@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "4f5dc5247a62bf16",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc9d5dbcf54e465b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "753f593908025b24",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "---=== HELLO ===---.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "---=== HELLO ===---"
+            }
+          },
+          {
+            "id": "5fa1172e06767eaa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-06-17.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-06-17"
+            }
+          },
+          {
+            "id": "b69a02ec259c77dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TASKs/inprogress/grafana/Hello grafana.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hello grafana"
+            }
+          },
+          {
+            "id": "27ce293b3ce1c800",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-06-16.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-06-16"
+            }
+          },
+          {
+            "id": "05ae7f814ae9441a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-06-18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-18"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7357f44c0490ce7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "80052732595f6962",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89587e78bb9473ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b8228f4240a07b22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "terraform wer",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ef87304c13a59d10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 408.5110321044922
+  },
+  "right": {
+    "id": "b723febd931fbfec",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f65178ac712aae5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "298189e2c95ce3e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "---=== HELLO ===---.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ---=== HELLO ===---"
+            }
+          },
+          {
+            "id": "9693ad2105a12e95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RadOps/zadanie 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from zadanie 1"
+            }
+          },
+          {
+            "id": "ebfdf01ca90511fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b0909cb85a3a2bdf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RadOps/zadanie 1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of zadanie 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "05ae7f814ae9441a",
+  "lastOpenFiles": [
+    "2025-06-16.md",
+    "2025-06-17.md",
+    "TASKs/inprogress/grafana/Hello grafana.md",
+    "2025-06-18.md",
+    "2025-06-13.md",
+    "Excalidraw/Drawing 2025-06-16 13.41.09.excalidraw.md",
+    "2025-06-12.md",
+    "knowlage/Potencjalne miejsca błędów w OTEL.md",
+    "imgs/Pasted Image 20250616134156_027.png",
+    "knowlage/frr_bgp_peer_state.md",
+    "knowlage/Add secret to k8s.md",
+    "knowlage/otel-daemonset.md",
+    "knowlage/microk8s kubectl get all -n network.md",
+    "TASKs/PROJECT01/In progress.md",
+    "knowlage/error brakuje CRD (Custom Resource Definitions) dla Gateway API.md",
+    "---=== HELLO ===---.md",
+    "Excalidraw/k8s architecture.md",
+    "imgs/Pasted Image 20250616153523_925.png",
+    "2025-06-11.md",
+    "imgs/Pasted Image 20250616141920_690.png",
+    "Excalidraw/v2.md",
+    "imgs/Pasted Image 20250616134238_190.png",
+    "knowlage/Cannot modify allocated ranges in CreateConnection.md",
+    "knowlage/zpages tracez.md",
+    "Excalidraw/kafka.md",
+    "knowlage/wyjaśnienie każdej wartości w przedstawionych metrykach Prometheus dla procesów w systemie VyOS.md",
+    "knowlage/Wyjaśnienie fragmentu `volume { ... }` z projekcją sekretów TLS.md",
+    "knowlage/why Traefik.md",
+    "dali note/2025-06-05.md",
+    "Pasted Image 20250611141008_509.png",
+    "2025-06-09.md",
+    "imgs/Pasted Image 20250609121833_996.png",
+    "imgs/Pasted image 20250609220123.png",
+    "imgs/Pasted Image 20250609122124_621.png",
+    "imgs/Pasted Image 20250609122040_459.png",
+    "Untitled.canvas",
+    "imgs/Pasted image 20250508074256.png",
+    "Untitled",
+    "personal",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "TASKs/inprogress/grafana",
+    "TASKs/archive/netapp",
+    "TASKs/inprogress/migration GCP to AWS API Gateway/keycloak",
+    "Untitled 1",
+    "TASKs/inprogress/migration GCP to AWS API Gateway",
+    "Excalidraw",
+    "TASKs/inprogress",
+    "TASKs/archive",
+    "TASKs/archive/vertex ai/Vertext AI w gcp.canvas"
+  ]
+}

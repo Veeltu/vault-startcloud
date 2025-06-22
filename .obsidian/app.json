@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "readableLineLength": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": false,
+  "spellcheck": false,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": false,
+  "smartIndentList": false,
+  "useTab": false,
+  "autoConvertHtml": false,
+  "strictLineBreaks": false,
+  "vimMode": false,
+  "alwaysUpdateLinks": true
+}
